@@ -28,6 +28,8 @@ dva:npm install -g dva-cli
 五:
 > ? What functionality do you want to enable? (Press <space> to select, <a> to toggle all, <i> to invert selection)
 - ❯◯ antd
-- ◯ dva
+- ❯◯ dva
 - ◯ code splitting
 - ◯ dll
+
+> 地五步的时候选择antd和dva即可 
